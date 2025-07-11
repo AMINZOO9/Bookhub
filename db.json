@@ -1,0 +1,111 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "The Great Gatsby",
+      "price": 12.99,
+      "image": "https://images.unsplash.com/photo-1532012197267-da84d127e765",
+      "rating": 4,
+      "category": "Fiction"
+    },
+    {
+      "id": "2",
+      "name": "Atomic Habits",
+      "price": 16.5,
+      "image": "https://images.unsplash.com/photo-1686764288887-dae4e7d50d58?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 5,
+      "category": "Self Help"
+    },
+    {
+      "id": "3",
+      "name": "Brief History of Time",
+      "price": 18.75,
+      "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794",
+      "rating": 4,
+      "category": "Science"
+    },
+    {
+      "id": "4",
+      "name": "How to win friends",
+      "price": 18.75,
+      "image": "https://images.unsplash.com/photo-1656266724452-9d5b57fb0b12?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDU4fHx8ZW58MHx8fHx8",
+      "rating": 5,
+      "category": "Self Help"
+    },
+    {
+      "id": "5",
+      "name": "carbon",
+      "price": 15.75,
+      "image": "https://images.unsplash.com/photo-1732304719906-df17c28691aa?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjN8fHNjaWVuY2UlMjBib29rc3xlbnwwfHwwfHx8MA%3D%3D",
+      "rating": 5,
+      "category": "Science"
+    },
+    {
+      "id": "6",
+      "name": "Chemistry",
+      "price": 18.75,
+      "image": "https://images.unsplash.com/photo-1745608792085-3b2dd69264e3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hlbWlzdHJ5JTIwYm9va3xlbnwwfHwwfHx8MA%3D%3D",
+      "rating": 5,
+      "category": "Science"
+    },
+    {
+      "id": "7",
+      "name": "Deep work",
+      "price": 18.75,
+      "image": "https://images.unsplash.com/photo-1711185895262-f14ad4d4eeac?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjd8fGZpY3Rpb24lMjBib29rc3xlbnwwfHwwfHx8MA%3D%3D",
+      "rating": 4,
+      "category": "Fiction"
+    },
+    {
+      "id": "8",
+      "name": "Harry potter",
+      "price": 12,
+      "image": "https://images.unsplash.com/photo-1626618012641-bfbca5a31239?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjN8fGZpY3Rpb24lMjBib29rc3xlbnwwfHwwfHx8MA%3D%3D",
+      "rating": 5,
+      "category": "Fiction"
+    },
+    {
+      "id": "9",
+      "name": "What A way to go",
+      "price": 16.75,
+      "image": "https://images.unsplash.com/photo-1734082134491-45a0a54560cd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTB8fGZpY3Rpb24lMjBib29rc3xlbnwwfHwwfHx8MA%3D%3D",
+      "rating": 5,
+      "category": "Fiction"
+    },
+    {
+      "id": "10",
+      "name": "A Book about hope",
+      "price": 15.7,
+      "image": "https://images.unsplash.com/photo-1675095281950-a04148fada31?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzF8fHNlbGYlMjBoZWxwJTIwYm9va3N8ZW58MHx8MHx8fDA%3D",
+      "rating": 5,
+      "category": "Self Help"
+    },
+    {
+      "id": "11",
+      "name": "How to stay alive in the woods",
+      "price": 9.75,
+      "image": "https://images.unsplash.com/photo-1635278527678-b9a2b1a2a081?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTM1fHxzZWxmJTIwaGVscCUyMGJvb2tzfGVufDB8fDB8fHww",
+      "rating": 3,
+      "category": "Self Help"
+    },
+    {
+      "id": "12",
+      "name": "journal",
+      "price": 10,
+      "image": "https://plus.unsplash.com/premium_photo-1731951687922-1bb9d7722a49?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDF8fHNlbGYlMjBoZWxwJTIwYm9va3N8ZW58MHx8MHx8fDA%3D",
+      "rating": 6,
+      "category": "Self Help"
+    }
+  ],
+  "cart": [
+    {
+      "id": "8",
+      "name": "Harry potter",
+      "price": 12,
+      "image": "https://images.unsplash.com/photo-1626618012641-bfbca5a31239?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjN8fGZpY3Rpb24lMjBib29rc3xlbnwwfHwwfHx8MA%3D%3D",
+      "rating": 5,
+      "category": "Fiction",
+      "quantity": 1
+    }
+  ]
+}
